@@ -1,6 +1,6 @@
 # npmdoc-timeseries-analysis
 
-#### api documentation for  [timeseries-analysis (v1.0.12)](https://github.com/26medias/timeseries-analysis)  [![npm package](https://img.shields.io/npm/v/npmdoc-timeseries-analysis.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-timeseries-analysis) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-timeseries-analysis.svg)](https://travis-ci.org/npmdoc/node-npmdoc-timeseries-analysis)
+#### basic api documentation for  [timeseries-analysis (v1.0.12)](https://github.com/26medias/timeseries-analysis)  [![npm package](https://img.shields.io/npm/v/npmdoc-timeseries-analysis.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-timeseries-analysis) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-timeseries-analysis.svg)](https://travis-ci.org/npmdoc/node-npmdoc-timeseries-analysis)
 
 #### timeseries-analysis
 
@@ -74,7 +74,8 @@
         "type": "git",
         "url": "git://github.com/26medias/timeseries-analysis.git"
     },
-    "version": "1.0.12"
+    "version": "1.0.12",
+    "bin": {}
 }
 ```
 
